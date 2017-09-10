@@ -1,4 +1,4 @@
-# ReadyNAS-NV-LCD-Customiser
+# ReadyNAS NV LCD Customiser
 
 `readynas-lcd.sh` is a simple customisable LCD script for the Netgear ReadyNAS NV+ NAS, which cycles a selection of system information over LCD, such as CPU usage etc.
 
