@@ -7,3 +7,7 @@ Tested with Netgear RND4000-100EUS, should work with similar models with the 16x
 Installation of this script is left as an exercise to the reader, but you should look at creating a cronjob, or modifying the script to loop/start with initd.
 
 You will need to configure your ReadyNAS to allow SSH access in order to deploy and run this script.
+
+## More Information
+
+See: https://devtty.io/2017/09/computing/readynas-lcd-customiser-script/
